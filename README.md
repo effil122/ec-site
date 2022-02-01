@@ -1,24 +1,17 @@
-# README
+# 基本的なECサイト
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##　概要
+管理者とエンドユーザーに分けたショッピングアプリ
 
-Things you may want to cover:
+## 機能
 
-* Ruby version
+### 管理者側
+-  商品登録&削除
+-  商品の販売状況変更機能
+-  ジャンル機能
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### エンドユーザー
+-  商品一覧
+-  カート機能
+-  購入履歴機能
+-  配送状況機能
